@@ -1,11 +1,16 @@
 # E-Commerce Back End
 
+## Links
+* github: https://github.com/Patelso9/ecom
+* youtube: https://youtu.be/MA9rTe-D-Yw
 
+## How to use
+Run (npm i) in your terminal to download all the packages used. Then start the program using (npm start) or (node server.js)
+You will see the server running on localhost:3001
+I reccomend using insomnia to run the GET, PUSH, PUT, and DELETE requests
 
-
-
-
-
+## Future Development
+* Integrate into a website
 
 ________________________________________________
 
